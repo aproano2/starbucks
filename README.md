@@ -88,3 +88,7 @@ customers.
 
 We evaluated the recommendation systems by using visualizations from
 the data.
+
+### 5. Blog Website
+
+A blog has been published in this [site](https://aproano2.github.io/starbucks/)
